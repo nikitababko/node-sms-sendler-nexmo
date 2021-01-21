@@ -1,5 +1,5 @@
 {
-    "name": "node-sms-sendler-first",
+    "name": "node-sms-sendler-nexmo",
     "description": "Send SMS from Node",
     "author": {
         "name": "nikita",
