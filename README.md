@@ -1,6 +1,6 @@
 # Node SMS Text App
 
-Node.js app that uses Nexmo to send SMS text messages
+Node.js app that uses [Nexmo](https://dashboard.nexmo.com/sign-in) to send SMS text messages
 
 ## Install
 
